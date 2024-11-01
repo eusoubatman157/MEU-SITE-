@@ -15,21 +15,7 @@ background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
 
 
 
-        ul {
-            background-color: rgb(61, 2, 2);
-            color: rgb(223, 223, 223);
-        }
-
-        ol {
-            background-color: rgb(255, 255, 255);
-            color: rgb(0, 0, 0);
-        }
-
-li {
-    font-size: 60px;
-    gap: 30px;
-}
-
+        
 
 
 
