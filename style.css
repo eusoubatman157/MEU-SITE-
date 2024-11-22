@@ -16,7 +16,7 @@
     padding: 20px 8%;
 }  
 
-.nav lista{
+.nav_lista{
     display: flex;
     list-style: none;
     gap: 28px;
